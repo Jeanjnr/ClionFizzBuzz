@@ -3,4 +3,4 @@ project(untitled1 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(untitled1 main.c MVS_Fizzbuzz.c MVS_Fizzbuzz.h)
+add_executable(untitled1 main.c MVS_Fizzbuzz.c MVS_Fizzbuzz.h MVS_FizzBuzz2.h)
